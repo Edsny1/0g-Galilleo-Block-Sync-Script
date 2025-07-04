@@ -1,0 +1,1 @@
+# 0g-Galilleo-Block-Sync-Script
